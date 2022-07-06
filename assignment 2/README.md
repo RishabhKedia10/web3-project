@@ -1,3 +1,5 @@
+Assignment 2 - MetaCoin
+
 These functoins are for owner only - 
 getOwnerBalance and viewDues are view functions as they are only reading and ensuring that the state variables state variables cannot be modified after calling them.
 
